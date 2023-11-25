@@ -1,2 +1,2 @@
-# classManager
-Sistema simples em python para testar conhecimentos de controle de dados
+# Class Manager
+Run manager.py to use the program, all actions are included in the code and can be modified
